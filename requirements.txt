@@ -1,3 +1,9 @@
 streamlit
 google-generativeai
 pillow
+
+'''run on terminal
+pip install -r requirements.txt
+streamlit run app.py
+pip install google-generativeai
+pip show google-generativeai'''
